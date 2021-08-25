@@ -497,7 +497,7 @@
     `(company-scrollbar-bg ((,class (:foreground ,nord-light1 :background ,nord-light4))))
     `(company-scrollbar-fg ((,class (:foreground ,nord-light2 :background ,nord-light4))))
     `(company-template-field ((,class (:foreground ,nord-light0 :background ,nord-light7))))
-    `(company-tooltip ((,class (:foreground ,nord-light4 :background ,nord-light4))))
+    `(company-tooltip ((,class (:foreground ,nord-light3 :background ,nord-light4))))
     `(company-tooltip-annotation ((,class (:foreground ,nord-light12))))
     `(company-tooltip-annotation-selection ((,class (:foreground ,nord-light12 :weight bold))))
     `(company-tooltip-common ((,class (:foreground ,nord-light8))))
